@@ -1,0 +1,34 @@
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: 50px;
+  background-color: rgba(0, 0, 0, 0.1);
+  width: 235px;
+  height: 412px;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav h4 {
+  margin-left: 60px;
+}
+
+nav ol li {
+  list-style: decimal inside;
+}
+
+nav li {
+font-size: 14px;
+line-height: 15px;
+color: rgba(0, 0, 0, 0.8);
+margin-top: 12px;
+}
+
+
+nav ol ol li {
+  color: rgba(0, 0, 0, 0.8);
+  margin-left: 10px;
+}
